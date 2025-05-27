@@ -1,6 +1,0 @@
-﻿  Text_Processing_P2.cpp
-D:\APD\Proiect\Text_Processing_P2\Text_Processing_P2\Text_Processing_P2\Text_Processing_P2.cpp(65,48): warning C4244: 'argument': conversion from 'MPI_Offset' to 'int', possible loss of data
-D:\APD\Proiect\Text_Processing_P2\Text_Processing_P2\Text_Processing_P2\Text_Processing_P2.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
-D:\APD\Proiect\Text_Processing_P2\Text_Processing_P2\Text_Processing_P2\Text_Processing_P2.cpp(131,22): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
-D:\APD\Proiect\Text_Processing_P2\Text_Processing_P2\Text_Processing_P2\Text_Processing_P2.cpp(138,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Text_Processing_P2.vcxproj -> D:\APD\Proiect\Text_Processing_P2\Text_Processing_P2\x64\Debug\Text_Processing_P2.exe
