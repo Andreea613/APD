@@ -63,7 +63,6 @@ int main(int argc, char** argv) {
     MPI_Offset fileSize;
 
     unordered_map<string, int> localWordCount;
-    const MPI_Offset bufferSize = 2 * 1024 * 1024;
 
     MPI_File_open(MPI_COMM_WORLD, filename.c_str(), MPI_MODE_RDONLY, MPI_INFO_NULL, &file);
     MPI_File_get_size(file, &fileSize);
